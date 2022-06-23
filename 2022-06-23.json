@@ -8,8 +8,23 @@
         [
             "what-element" : "p",
             "text" : "
-                Hello. My name is jorge diaz jr.
+                Hello.
+                My name is jorge diaz jr.
+                Which doesn't mean much right ?
+                It's just a name after all.
+                But as you read more posts (if you decide it's worth your time), you will have an accurate idea of who the person is behind the words you read.
             "
-        ]
+        ],
+        [
+            "what-element" : "p",
+            "text" : "
+                So why am I writing?
+                Mainly for myself.
+                (Pretty selfish huh).
+                To become good at writing (duh), thinking, communicating, while sharing my personal faith, beliefs, thoughts, ideas, etc.
+                And I pray it is a blessing to someone.
+                ...
+            "
+        ],
     ]
 }
