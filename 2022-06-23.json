@@ -3,7 +3,7 @@
     "author" : "jorge diaz jr",
     "tags" : ["random"],
     "reading-time" : 0,
-    "title" : "Journey",
+    "title" : "start",
     "content" : [
         [
             "what-element" : "p",
@@ -12,7 +12,7 @@
                 My name is jorge diaz jr.
                 Which doesn't mean much right ?
                 It's just a name after all.
-                But as you read more posts (if you decide it's worth your time), you will have an accurate idea of who the person is behind the words you read.
+                But as you read more posts (if you decide it's worth your time), you will come to have some idea of who the person is behind the words you read.
             "
         ],
         [
@@ -21,10 +21,12 @@
                 So why am I writing?
                 Mainly for myself.
                 (Pretty selfish huh).
-                To become good at writing (duh), thinking, communicating, while sharing my personal faith, beliefs, thoughts, ideas, etc.
+                To become good at writing (duh), thinking, communicating, all while sharing my personal faith, beliefs, thoughts, ideas, etc.
                 And I pray it is a blessing to someone.
                 ...
             "
-        ],
+        ]
+    ],
+    "references" : [
     ]
 }
