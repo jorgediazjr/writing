@@ -6,7 +6,7 @@
     "title" : "start",
     "content" : [
         [
-            "what-element" : "p",
+            "html-element" : "p",
             "text" : "
                 Hello.
                 My name is jorge diaz jr.
@@ -16,7 +16,7 @@
             "
         ],
         [
-            "what-element" : "p",
+            "html-element" : "p",
             "text" : "
                 So why am I writing?
                 Mainly for myself.
