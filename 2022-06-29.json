@@ -1,0 +1,43 @@
+{
+    "date" : "2022-06-23",
+    "author" : "jorge diaz jr",
+    "tags" : [],
+    "reading-time" : 0,
+    "title" : "reading",
+    "content" : [
+        [
+            "html-element" : "h5",
+            "text" : "
+                The importance of reading
+            "
+        ],
+        [
+            "html-element" : "h5",
+            "text" : "
+                The consequences of NOT reading
+            "
+        ],
+        [
+            "html-element" : "h5",
+            "text" : "
+                Steps to start/improve reading
+            "
+        ],
+        [
+            "html-element" : "h5",
+            "text" : "
+                Blockers to reading
+            "
+        ]
+    ],
+    "references" : [
+        "https://www.uopeople.edu/blog/why-its-important-to-read/",
+        "https://youngreadersfoundation.org/importance-of-reading/",
+        "https://www.naturalbeachliving.com/reasons-why-reading-is-so-important/",
+        "https://gladreaders.com/importance-of-reading-books/",
+        "https://harappa.education/harappa-diaries/importance-of-reading/",
+        "https://www.iss.edu/blog/insights/importance-of-reading",
+        "https://www.lifehack.org/articles/lifestyle/10-benefits-reading-why-you-should-read-everyday.html",
+        "https://fs.blog/how-to-read-a-book/"
+    ]
+}
